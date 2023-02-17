@@ -30,7 +30,6 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
         <div> {thisProduct.name} vale {thisProduct.price} lempiras y tiene el id: {thisProduct.id}
-
         </div>
       </div>
       <p className="read-the-docs">
